@@ -1,1 +1,2 @@
-this is a text file add something we need do somethingl
+Git is a distributed version control system.
+Git is free sofrware distributed under the GPL.
